@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Personal projects
