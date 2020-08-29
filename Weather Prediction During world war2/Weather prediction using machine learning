@@ -1,0 +1,4 @@
+The objective of this project is to find any relationship between maximum temperature and minimum temperature during the time of world war 2 
+and to predict maximum temperature from a given set of minimum temperatures
+Tools used: python, pandas, NumPy, matplotlib, seaborn
+Algorithms used: Linear Regression, Polynomial Regression, Decision Tree Regression, Random forest
