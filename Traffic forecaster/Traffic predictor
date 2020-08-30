@@ -1,0 +1,3 @@
+The objective of the project is to build a traffic forecaster that can predict the traffic flow in a smart city accurately and in real-time using deep learning algorithms- LSTM and Simple RNN
+Tools & algorithm: Python, NumPy, Matplotlib, Pandas, Keras, Scikit-learn
+Algorithm: Long Short term memory, Recurrent Neural network
